@@ -1,2 +1,2 @@
 # Brainy1.0
-Brainy: Transforming complex ideas into simple, engaging insights with intuitive analogies powered by the GROQ AI API.
+Brainy is a web application that transforms complex concepts into simple, engaging explanations using the GROQ AI API, intuitive analogies, and everyday examples5. It empowers everyone—from curious beginners to experienced learners—to grasp challenging topics effortlessly while built with agile methodologies, robust Git version control, and continuous testing to ensure quality and rapid iteration
