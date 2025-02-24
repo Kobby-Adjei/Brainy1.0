@@ -1,0 +1,25 @@
+{
+  "name": "brainy1.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kobby-Adjei/Brainy1.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kobby-Adjei/Brainy1.0/issues"
+  },
+  "homepage": "https://github.com/Kobby-Adjei/Brainy1.0#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^15.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
